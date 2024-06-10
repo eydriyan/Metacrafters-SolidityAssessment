@@ -50,8 +50,9 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 4. Once the contract is deployed, you can interact with it by calling the `mint` and `burn` functions. Click on the "MyToken" contract in the left-hand sidebar, and then click on the desired function. Enter the necessary parameters and click on the "transact" button to execute the function.
 
 ## Authors
+
 Adrian Oraya
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.
